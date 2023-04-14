@@ -5,14 +5,7 @@
 ![Demo](https://media.giphy.com/media/dv1C56OywrP7Cn20nr/giphy.gif)
 <br>A javascript library to create pretty flowcharts with ease ✨
 
-[Dribbble](https://dribbble.com/shots/8576286-Flowy-Flowchart-Engine) | [Twitter](https://twitter.com/alyssaxuu/status/1199724989353730048) | [Live demo](https://alyssax.com/x/flowy)
-
-
 Flowy makes creating WebApps with flowchart functionality an incredibly simple task. Build automation software, mind mapping tools, or simple programming platforms in minutes by implementing the library into your project. 
-
-> You can support this project (and many others) through [GitHub Sponsors](https://github.com/sponsors/alyssaxuu)! ❤️
-
-Made by [Alyssa X](https://alyssax.com)
 
 ## Table of contents
 - [Features](#features)
@@ -223,5 +216,3 @@ To remove all blocks at once use:
 flowy.deleteBlocks()
 ```
 Currently there is no method to individually remove blocks. The only way to go about it is by splitting branches manually.
-#
- Feel free to reach out to me through email at hi@alyssax.com or [on Twitter](https://twitter.com/alyssaxuu) if you have any questions or feedback! Hope you find this useful 💜
